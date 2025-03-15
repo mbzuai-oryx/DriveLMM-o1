@@ -14,7 +14,7 @@
 ---
 
 ## 📣 Latest Updates
-- **March-13-2025**: Technical Report of DriveLMM-o1 is released on Arxiv. [Paper](https://arxiv.org/abs/2503.10621v1)
+- **March-13-2025**: DriveLMM-o1 is released on Arxiv. [Paper](https://arxiv.org/abs/2503.10621v1)
 - **March-12-2025**: *Code, Model & Dataset release.* Model Checkpoint: [HuggingFace](https://huggingface.co/ayeshaishaq/DriveLMMo1). Dataset: [HuggingFace](https://huggingface.co/datasets/ayeshaishaq/DriveLMMo1). Code is available at: [GitHub](https://github.com/mbzuai-oryx/DriveLMM-o1). 🤗
 
 ---
